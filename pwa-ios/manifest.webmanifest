@@ -1,0 +1,28 @@
+{
+  "name": "ADM Premium",
+  "short_name": "ADM Premium",
+  "start_url": "https://maisafilachandra.blogspot.com/?utm_source=pwa_home_screen",
+  "scope": "https://maisafilachandra.blogspot.com/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1e63e0",
+  "theme_color": "#1e63e0",
+  "icons": [
+    {
+      "src": "https://maisafilachandra.blogspot.com/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://maisafilachandra.blogspot.com/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://maisafilachandra.blogspot.com/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
