@@ -1,6 +1,6 @@
 # SIAKAD — Desktop (Tauri) + PWA iOS
 
-Project ini punya **dua target** untuk blog Blogger yang sama, **https://ujicobagratis02.blogspot.com**:
+Project ini punya **dua target** untuk blog Blogger yang sama, **https://jackyardiyan.blogspot.com**:
 
 | Target | Folder | Platform |
 |---|---|---|
