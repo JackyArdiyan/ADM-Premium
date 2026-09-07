@@ -3,7 +3,19 @@
   "identifier": "default",
   "description": "Izin default untuk window utama ADM Premium Desktop",
   "windows": ["main"],
+  "remote": {
+    "urls": [
+      "https://jackyardiyan.blogspot.com/*",
+      "https://*.blogspot.com/*"
+    ]
+  },
   "permissions": [
-    "core:default"
+    "core:default",
+    "dialog:default",
+    "fs:default",
+    {
+      "identifier": "fs:allow-write-file",
+      "allow": [{ "path": "**" }]
+    }
   ]
 }
